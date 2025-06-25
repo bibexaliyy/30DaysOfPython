@@ -17,6 +17,7 @@ Feel free to explore and learn with me as I work through these exercises
 - Apply concepts in small practical projects
 - Share a public record of my Python journey
 
+
 ---
 
 ## 🗂️ Structure
@@ -34,7 +35,6 @@ Each folder is named by day (e.g., `day_01`, `day_02`...), containing:
 - VS Code / Google Colab
 
 ---
-
 ## 🚀 How to Use
 
 1. Clone the repo:
@@ -42,3 +42,16 @@ Each folder is named by day (e.g., `day_01`, `day_02`...), containing:
 git clone https://github.com/bibexaliyy/30DaysOfPython.git
 cd 30DaysOfPython
 2. Open any folder and run the .ipynb files in Jupyter or Google Colab.
+
+---
+
+## 🧠Key Learnings 
+ Day 1–5: Python basics, data types, variables
+
+ Day 6–10: Control flow, functions
+
+ Day 11–15: Error handling, modules
+
+ Day 16–20: OOP basics
+
+ Day 21–30: Projects & extras
