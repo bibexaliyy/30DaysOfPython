@@ -43,15 +43,4 @@ git clone https://github.com/bibexaliyy/30DaysOfPython.git
 cd 30DaysOfPython
 2. Open any folder and run the .ipynb files in Jupyter or Google Colab.
 
----
 
-## 🧠Key Learnings 
- Day 1–5: Python basics, data types, variables
-
- Day 6–10: Control flow, functions
-
- Day 11–15: Error handling, modules
-
- Day 16–20: OOP basics
-
- Day 21–30: Projects & extras
